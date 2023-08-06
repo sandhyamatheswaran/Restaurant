@@ -1,0 +1,78 @@
+.top-container{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  color: red;
+}
+.container-fluid{
+  background-color: #C1EFFF;
+
+}
+.row{
+  font-style: italic;
+  background-color: #FFE1E1;
+  padding: 0px 0px;
+  text-align: center;
+}
+h1{
+  line-height: 1.5;
+  font-size: 3rem;
+  font-weight:lighter;
+  padding-left: 40px;
+}
+.line{
+  text-align: center;
+  padding-right: 150px;
+}
+.text{
+  text-align: center;
+  padding-right: 150px;
+}
+.lines{
+  text-align: center;
+  padding-right: 150px;
+}
+.bottom-container{
+  padding-left: 390px;
+  padding-top: 100px;
+}
+.last-text{
+  text-align: center;
+  margin-top: 10%;
+  margin-right: 10%;
+}
+h2{
+  text-align: center;
+  color: #0008C1;
+  font-family: 'Satisfy', cursive;
+  padding-top: 50px;
+  padding-left: 550px;
+}
+.col-lg-6 img{
+  padding-top: 50px;
+  padding-left: 80px;
+}
+.navbar-brand{
+  font-weight: bold;
+}
+.last-container{
+  background-color: #C3FF99;
+  padding-top: 50px;
+  padding-left: 80px;
+  padding: 50px 50px;
+}
+.social{
+  margin: 15px 10px;
+}
+.middle-container{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  padding-top: 10px;
+}
+#footer{
+  text-align: center;
+  padding-top: 100px;
+}
+p{
+  text-align:
+  
+}
